@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ouail-el
+- 👀 I’m interested in Software development and ethical hacking
+- 🌱 I’m currently learning full stack development
+- 💞️ I’m looking to collaborate on projects...etc
+- 📫 ouailelonsri@gmail.com
